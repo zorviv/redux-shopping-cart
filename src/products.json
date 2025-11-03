@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "High-quality wireless headphones with noise cancellation"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "Fitness tracking smartwatch with heart rate monitor"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "Ergonomic aluminum laptop stand"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "RGB mechanical keyboard with blue switches"
+  },
+  {
+    "id": 5,
+    "name": "USB-C Hub",
+    "price": 39.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "7-in-1 USB-C hub with multiple ports"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "Ergonomic wireless mouse with precision tracking"
+  }
+]
